@@ -26,7 +26,7 @@ I'm always up for feedback, collaborations, or just a friendly chat. <br/> Feel 
 - **Outcome** : 92.5/100
 
 ---
-## 🚗 Predicting Used Car Prices
+## [🚗 Predicting Used Car Prices](https://github.com/DeepaliRaj1/Files-with-Data/blob/main/CarPricePred.ipynb)
 
 **University Assignment (BUSA8001: Applied Predictive Analytics)**
 
