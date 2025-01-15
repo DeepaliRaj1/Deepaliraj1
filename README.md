@@ -6,9 +6,10 @@
 
 #### A Business Analytics Student (Final Semester)
 
+![giphy](https://github.com/user-attachments/assets/107c37c4-eb15-47f7-aeec-aab882da1c25)
 
 </div>
-![Alt Text](https://github.com/Deepaliraj1/username/blob/main/your-gif-name.gif)
+
 
 
 Below are few of the projects that I have done Please explore and let me know what you think! 🌟 <br/>
