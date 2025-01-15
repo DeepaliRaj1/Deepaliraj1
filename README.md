@@ -41,7 +41,7 @@ I'm always up for feedback, collaborations, or just a friendly chat. <br/> Feel 
 - **Outcome**: 90/100
 
 ---
-## 🏅 Operational Insights for Paris 2024 Olympic Games
+## [🏅 Operational Insights for Paris 2024 Olympic Games](https://docs.google.com/document/d/1OrLcsRq9mr0vG7QoHLrwxzEqNNoFlGI8/edit)
 
 **University Assignment (BUSA8090: Data and Visualisation for Business)**
 
