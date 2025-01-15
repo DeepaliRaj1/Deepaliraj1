@@ -55,7 +55,7 @@ I'm always up for feedback, collaborations, or just a friendly chat. <br/> Feel 
 - **Tools**: MySQL
 - **Outcome**: 85/100
 ---
-## 📚 Analyzing COVID-19's Impact on Digital Learning in the U.S.
+## [📚 Analyzing COVID-19's Impact on Digital Learning in the U.S.](https://drive.google.com/drive/u/2/folders/1_DazSR1DXkiQfyGqeQdx4zE2VcVl4Laj)
 
 **University Assignment (BUSA8000: Techniques in Business Analytics)**
 
