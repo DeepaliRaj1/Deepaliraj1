@@ -5,11 +5,11 @@
 ## It's Deepali
 
 #### A Business Analytics Student (Final Semester)
+![giffsmall](https://github.com/user-attachments/assets/93e011cc-1800-472e-aa98-bbdcda9127b4)
 
-![giphy](https://github.com/user-attachments/assets/107c37c4-eb15-47f7-aeec-aab882da1c25)
+
 
 </div>
-
 
 
 Below are few of the projects that I have done Please explore and let me know what you think! 🌟 <br/>
