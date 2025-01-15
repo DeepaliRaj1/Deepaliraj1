@@ -8,6 +8,7 @@
 
 
 </div>
+![Alt Text](https://github.com/Deepaliraj1/username/blob/main/your-gif-name.gif)
 
 
 Below are few of the projects that I have done Please explore and let me know what you think! 🌟 <br/>
