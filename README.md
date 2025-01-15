@@ -11,7 +11,7 @@ Below are few of the projects that I have done Please explore and let me know wh
 I'm always up for feedback, collaborations, or just a friendly chat. <br/> Feel free to drop me a message at [gmail](deepaliraj1911@gmail.com). ✉️ Let's connect!
 
 ---
-## 📊 Sales Analysis and Predictive Modeling for Dibs Retail
+## [📊 Sales Analysis and Predictive Modeling for Dibs Retail](https://github.com/DeepaliRaj1/Files-with-Data/blob/main/Dibs.R)
 
 **University Assignment (BUSA8000: Techniques in Business Analytics)**
 
